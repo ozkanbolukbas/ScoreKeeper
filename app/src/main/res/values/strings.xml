@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="point">POINT</string>
+    <string name="setPoint">Set Point</string>
+    <string name="reset">RESET</string>
+    <string name="intro">In rally scoring, games are played until a team scores 25 points, provided there is at least a two-point margin of victory. \nMatches are typically decided by the best three-out-of-five games format.
+        \nIf a fifth game is played, the team that scores 15 points first is the winner, provided there is a two-point margin of victory.</string>
+    <string name="introHeader">Rules:</string>
+    <string name="introButton">Ok Go to App</string>
+    <string name="breakPoint">break</string>
+</resources>
